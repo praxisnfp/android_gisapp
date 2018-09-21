@@ -33,7 +33,7 @@
         android:id="@+id/menu_add_remote"
         android:title="@string/create_qms_layer"/>
 
-    <item
+    <!--<item
         android:id="@+id/menu_add_ngw"
-        android:title="@string/ngw_layer_add"/>
+        android:title="@string/ngw_layer_add"/>-->
 </menu>
